@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mynodejs-app
-        image: amritpoudel/demo-app:latest
+        image: dilip433/dilip0110:latest
         resources:
           limits:
             memory: "128Mi"
